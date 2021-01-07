@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<img align="right" src="https://valar-hitcounter.invoke.valar.dev/count?name=aditi3&style=minimal">
