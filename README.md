@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 <!--
 **Aditi3/Aditi3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="right" src="https://valar-hitcounter.invoke.valar.dev/count?name=aditi3&style=minimal">
+<!-- <img align="right" src="https://valar-hitcounter.invoke.valar.dev/count?name=aditi3&style=minimal"> -->
