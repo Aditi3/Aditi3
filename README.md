@@ -2,11 +2,14 @@
 <!--
 **Aditi3/Aditi3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
--->
 
 <p align="center">
   <a href="https://aditi3.github.io/"><img src="Hi%2C%20I'm%20Aditi.gif"></a>
 </p>
+
+-->
+
+# Hi, there! I'm [Aditi](https://aditi3.github.io/)
 
 I am an iOS Engineer with experience in Software Development, Framework/ Application development and Support, and Project Execution. Collaborated with cross-functional teams to define, design, and ship new features. To know more about me read [here](https://aditi3.github.io/).
 
