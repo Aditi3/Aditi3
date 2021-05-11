@@ -17,7 +17,7 @@ I am an iOS Engineer with experience in Software Development, Framework/ Applica
   <a href="mailto:aditi.gvc@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />    </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aditi-agrawal-64345974/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://metrics.lecoq.io/about/aditi3"><img src="https://img.shields.io/badge/GitHub-Metrics-blue?style=for-the-badge&logo=github"</a>
+  <a href="https://metrics.lecoq.io/about/aditi3"><img src="https://img.shields.io/badge/Metrics-blue?style=for-the-badge&logo=github"</a>
     
 <!-- <img align="right" src="https://valar-hitcounter.invoke.valar.dev/count?name=aditi3&style=minimal"> -->
 
