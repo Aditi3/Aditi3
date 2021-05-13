@@ -20,7 +20,7 @@ I am an iOS Engineer with experience in Software Development, Framework/ Applica
   <a href="https://metrics.lecoq.io/about/aditi3"><img src="https://img.shields.io/badge/Metrics-blue?style=for-the-badge&logo=github"</a>
 <p>
 <p align="center">
-<img src="https://metrics.lecoq.io/aditi3?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&lines=1&isocalendar.duration=full-year&config.timezone=Asia%2FCalcutta"</a>
+<a href="https://aditi3.github.io/"><img src="https://metrics.lecoq.io/aditi3?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&lines=1&isocalendar.duration=full-year&config.timezone=Asia%2FCalcutta"</a>
 </p>
 
 <!-- <img align="right" src="https://valar-hitcounter.invoke.valar.dev/count?name=aditi3&style=minimal"> -->
