@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 ## Hi, there! I'm [Aditi](https://aditi3.github.io/)
 
-I am an iOS Engineer with experience in Software Development, Framework/ Application development and Support, and Project Execution. Collaborated with cross-functional teams to define, design, and ship new features. My personal website is [here](https://aditi3.github.io/).
+I am an iOS Engineer, team lead with experience in Software Development, Framework/ Application development and Support, and Project Execution. Collaborated with cross-functional teams to define, design, and ship new features. My personal website is [here](https://aditi3.github.io/).
   
 <p align="center">
 <a href="https://aditi3.github.io/"><img src="https://metrics.lecoq.io/aditi3?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&lines=1&isocalendar.duration=full-year&config.timezone=Asia%2FCalcutta"</a>
