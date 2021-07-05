@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 I am an iOS Engineer, team lead with experience in Software Development, Framework/ Application development and Support, and Project Execution. Collaborated with cross-functional teams to define, design, and ship new features. My personal website is [here](https://aditi3.github.io/).
   
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditi3&theme=graywhite"</a>
+<a href="https://aditi3.github.io/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aditi3&theme=graywhite"</a>
   
 </br> 
 <p align="center">
