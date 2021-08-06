@@ -11,10 +11,10 @@ Here are some ideas to get you started:
 
 ## Hi, there! I'm [Aditi](https://aditi3.github.io/)
 
-I am an iOS Engineer, team lead with experience in software Development, framework/ application development and support, and project execution. Collaborated with cross-functional teams to define, design, and ship new features. My personal website is [here](https://aditi3.github.io/).
+I am an iOS Engineer and team lead with experience in software Development, framework/ application development and support, and project execution. Collaborated with cross-functional teams to define, design, and ship new features. My personal website is [here](https://aditi3.github.io/).
   
 <p align="center">
-<a href="https://aditi3.github.io/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aditi3&background=FFFFFF&theme=blue-green"</a>
+<a href="https://aditi3.github.io/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aditi3&background=FFFFFF&theme=graywhite&fire=e25822"</a>
   
 </br> 
 <p align="center">
