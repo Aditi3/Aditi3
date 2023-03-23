@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 -->
 
-## Hello hi hi, I'm [Aditi Agrawal](https://aditi3.github.io/)
+## Hello, I'm [Aditi](https://aditi3.github.io/)
 
 I am an iOS Engineer, and Leader experience building frameworks(SDKs) and applications. Collaborated with cross-functional teams to define, design, and ship new features from start to end. My personal website is [here](https://aditi3.github.io/).
   
