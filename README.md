@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a mobile developer and engineer leader who lov
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on various iOS and React-Native platfrom. 
+- 🔭 I’m currently working on iOS, React-Native and Steamworks platforms.
 - 🌱 I’m constantly learning and exploring new technologies, especially in Mobile development. 
 - 👯 I’m looking to collaborate on innovative projects that make a difference.
 - 💬 Ask me about anything related to Obj-C, Swift, mobile SDKs management
